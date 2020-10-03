@@ -1,0 +1,32 @@
+.navBrand {
+  display: inline;
+}
+.navWrapper {
+  background-color: #ebd1eb;
+  color: #333;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100px;
+  left: 0;
+  z-index: 20;
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 5px;
+}
+
+.navContent {
+  margin-top: 55px;
+  margin-left: 55px;
+  margin-right: 55px;
+}
+.navItem{
+  display: inline;
+  margin: 25px;
+  float: left;
+  margin-top: 15px;
+}
+.cart {
+  float: right;
+}
