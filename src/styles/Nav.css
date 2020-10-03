@@ -1,5 +1,6 @@
 .navBrand {
   display: inline;
+  font-size: 35px;
 }
 .navWrapper {
   background-color: #ebd1eb;
@@ -8,7 +9,7 @@
   top: 0;
   right: 0;
   width: 100% !important;
-  height: 100px;
+  height: 150px;
   left: 0;
   z-index: 20;
   padding-right: 0;
@@ -17,7 +18,7 @@
 }
 
 .navContent {
-  margin-top: 55px;
+  margin-top: 96px;
   margin-left: 55px;
   margin-right: 55px;
 }

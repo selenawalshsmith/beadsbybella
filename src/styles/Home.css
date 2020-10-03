@@ -1,0 +1,26 @@
+.sectionA {
+  padding: 35px;
+  margin: 15px;
+  margin-top: 150px;
+  height: auto;
+}
+.sectionB {
+  padding: 35px;
+  margin: 15px;
+  margin-top: 60px;
+  height: auto;
+}
+.img1 {
+  /*height: 600px;*/
+  height: 500px;
+  width: auto;
+  float: left;
+  margin-left: 45px;
+
+
+}
+.whimsical {
+  /*margin-left: 50px;*/
+  height: 400px;
+  width: auto;
+}
