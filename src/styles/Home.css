@@ -1,5 +1,5 @@
 .sectionA {
-  padding: 35px;
+  /*padding: 35px;*/
   margin: 15px;
   margin-top: 150px;
   height: auto;
@@ -7,7 +7,12 @@
 .sectionB {
   padding: 35px;
   margin: 15px;
-  margin-top: 60px;
+  margin-top: 110px;
+  height: auto;
+}
+.sectionC {
+  margin: 15px;
+  
   height: auto;
 }
 .img1 {
@@ -16,11 +21,15 @@
   width: auto;
   float: left;
   margin-left: 45px;
-
-
+  margin-top: 25px;
 }
 .whimsical {
   /*margin-left: 50px;*/
   height: 400px;
   width: auto;
+}
+.heartandsoul {
+  margin: auto;
+  display: inline-block;
+  width: 700px;
 }
